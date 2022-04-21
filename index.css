@@ -1,7 +1,7 @@
 .u-section-1 .u-image-1 {
   min-height: 500px;
   background-image: url("images/MainImage.png");
-  background-position: 50% 50%;
+  background-position: 34.01% 50%;
 }
 
 @media (max-width: 1199px) {
@@ -29,6 +29,7 @@
 }.u-section-2 .u-image-1 {
   min-height: 201px;
   background-image: url("images/Software.png");
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
